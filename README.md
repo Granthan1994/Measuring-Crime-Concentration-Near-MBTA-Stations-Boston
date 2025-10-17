@@ -48,3 +48,4 @@ A clear view of crime near stations helps **cut through anecdotes, support safet
 This project also showcases essential **geospatial methods**—such as **buffers**, **spatial joins**, and **risk normalization**—that translate complex data into actionable insights for city planners and law enforcement.
 
 ---
+## 📊 Visual Highlights
