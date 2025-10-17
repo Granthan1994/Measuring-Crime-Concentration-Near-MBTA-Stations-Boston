@@ -52,3 +52,6 @@ This project also showcases essential **geospatial methods**—such as **buffers
 ![Citywide Year-over-Year Crime Trends](https://raw.githubusercontent.com/Granthan1994/Measuring-Crime-Concentration-Near-MBTA-Stations-Boston/5de61f4f2b76b29c466128a357cec2c17c4afdf3/Citywide_Year-over-Year_crime_trends.png)
 *Citywide crime declined sharply in 2020–2023, then partially rebounded in 2024–25.*
 
+![District Station-Adjacent Incident Density (5-Minute Lens)](https://raw.githubusercontent.com/Granthan1994/Measuring-Crime-Concentration-Near-MBTA-Stations-Boston/32032425d49c8d61d3e6562eb4daf0c5db6d6fcc/District%20Station-Adjacent%20Incident%20Density%20(5-Minute%20Lens).png)
+
+![Incremental Capture of Incidents Across Station-Proximity Segments](https://raw.githubusercontent.com/Granthan1994/Measuring-Crime-Concentration-Near-MBTA-Stations-Boston/32032425d49c8d61d3e6562eb4daf0c5db6d6fcc/Incremental%20Capture%20of%20Incidents%20Across%20Station-Proximity%20Segments.png)
