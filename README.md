@@ -1,4 +1,5 @@
 # Measuring-Crime-Concentration-Near-MBTA-Stations-Boston
+## contributor： Fei Han, Yanlun Li, Rita Feng, Kai Tran, Abbinaya Kalidhas, Mohamad Gong
 ## 🧭 Project Overview
 
 This project analyzes **Boston Police incident reports (2016–2025)** in relation to **MBTA station locations** to understand how crime concentrates near public transit. Using **1-, 3-, and 5-minute walking isochrones**, we spatially link each incident to its nearest station area and examine patterns by **offense type, time, station, transit line, and police district**.
